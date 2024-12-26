@@ -50,24 +50,7 @@
 .footer {
   background: #333;
   color: #fff;
-  padding: 1rem 0;
-  text-align: center;
-}
-
-.footer ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-}
-
-/* Footer */
-.footer {
-  background: #333;
-  color: #fff;
 
   text-align: center;
 }
-
-
 
